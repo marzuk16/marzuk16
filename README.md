@@ -43,14 +43,14 @@ I'm Md Marzukul Islam a Full Stack Web Developer. I Spend most of time coding ou
 ### **Tools**
 
 
-<img align="left" alt="ubuntu" width="26px" src="/images/tools/ubuntu.png" />
-<img align="left" alt="Git" width="26px" src="/images/tools/git.png" />
-<img align="left" alt="Visual Studio Code" width="26px" src="/images/tools/visualstudiocode.png" />
-<img align="left" alt="Intellij" width="26px" src="/images/tools/intellijidea.png" />
-<img align="left" alt="Postman" width="26px" src="/images/tools/postman.png" />
-<img align="left" alt="Swaggerui" width="26px" src="/images/tools/swaggerui.png" />
-<img align="left" alt="npm" width="26px" src="/images/tools/npm.png" />
-<img align="left" alt="gradle" width="26px" src="/images/tools/gradle.png" />
+<img align="left" alt="ubuntu" width="30px" src="/images/tools/ubuntu.png" />
+<img align="left" alt="Git" width="30px" src="/images/tools/git.png" />
+<img align="left" alt="vscode" width="30px" src="/images/tools/visualstudiocode.png" />
+<img align="left" alt="Intellij" width="30px" src="/images/tools/intellijidea.png" />
+<img align="left" alt="Postman" width="30px" src="/images/tools/postman.png" />
+<img align="left" alt="Swaggerui" width="30px" src="/images/tools/swaggerui.png" />
+<img align="left" alt="npm" width="30px" src="/images/tools/npm.png" />
+<img align="left" alt="gradle" width="30px" src="/images/tools/gradle.png" />
 
 <br /><br />
 
