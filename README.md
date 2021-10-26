@@ -1,68 +1,61 @@
-## Hi there,👋 <br /> I'm Md Marzukul Islam [website]
+# **Hi I'm Marzuk <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">**
 
-[![Website](https://img.shields.io/website?label=marzuk&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://#)
-[![Twitter Follow](https://img.shields.io/twitter/follow/marzuk?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fm4rzuk16&screen_name=m4rzuk16)
+I'm Md Marzukul Islam a Full Stack Web Developer. I Spend most of time coding outstanding projects.
 
-### I'm a Jr Software Engineer!!
+:mailbox: Reach me out!
 
-<!-- - 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]! -->
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other
-- 🥅 2022 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to cook and play
+[![Twitter Badge](https://img.shields.io/badge/-@Marzuk-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/m4rzuk16)](https://twitter.com/m4rzuk16)
+[![Mail Badge](https://img.shields.io/badge/-Marzuk-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:marzuk.dev@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Marzuk-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marzuk16/)
+ [![Mail Badge](https://img.shields.io/badge/-@marzuk-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/marzuk16)
 
-### Connect with me:
+<!-- TODO: Add last video link -->
 
-[<img align="left" alt="marzuk.me" width="22px" src="/images/social/globe.svg" />][website]
-[<img align="left" alt="marzuk" width="22px" src="/images/social/facebook.svg" />][fb]
-[<img align="left" alt="Marzuk | Twitter" width="22px" src="/images/social/twitter.svg" />][twitter]
-[<img align="left" alt="Marzuk | LinkedIn" width="22px" src="/images/social/linkedin.svg" />][linkedin]
+- 🔭 I’m currently working at @EATL
+- :computer: Most used line of code `git commit -m "Initial Commit"`
+- 🤔 I’m looking for help with Outstanding Video ideas.
+- 📫 How to reach me: marzuk.dev@gmail.com.
+- 😄 Pronouns: Marzuk.
+- ⚡ Fun fact: I play games and cooking.
+  
+<br />
+
+### **Languages & frameworks**
+
+<!-- TODO: Make technologies links takes you to repositories -->
+
+[![Java Badge](https://img.shields.io/badge/-java-32a852?style=for-the-badge&labelColor=black&logo=java&logoColor=32a852)](#) &nbsp;&nbsp;
+[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) &nbsp;&nbsp;
+[![CPP Badge](https://img.shields.io/badge/-cpp-007acc?style=for-the-badge&labelColor=black&logo=cplusplus&logoColor=007acc)](#) &nbsp;&nbsp;
+[![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) &nbsp;&nbsp;
+[![Spring Badge](https://img.shields.io/badge/-springboot-e535ab?style=for-the-badge&labelColor=black&logo=spring.js&logoColor=e535ab)](#) &nbsp;&nbsp;
+[![Expressjs Badge](https://img.shields.io/badge/-Express-61DBFB?style=for-the-badge&labelColor=black&logo=express&logoColor=61DBFB)](#) &nbsp;&nbsp;
+[![React Badge](https://img.shields.io/badge/-React-1e339e?style=for-the-badge&labelColor=black&logo=react&logoColor=1e339e)](#)
 
 <br />
 
-### Languages and Frameworks:
+### **Databeses**
 
-<img align="left" alt="C++" width="26px" src="/images/languages/cpp.svg" />
-<img align="left" alt="java" width="26px" src="/images/languages/java.svg" />
-<img align="left" color="red" alt="JavaScript" width="26px" src="/images/languages/javascript.svg" />
-<img align="left" alt="Node.js" width="26px" src="/images/languages/node-dot-js.svg" />
-<img align="left" alt="React" width="26px" src="/images/frameworks/react.svg" />
-<img align="left" alt="Express js" width="26px" src="/images/frameworks/expressjs-ar21.svg" />
-<img align="left" alt="Spring boot" width="26px" src="/images/frameworks/spring.svg" />
-<img align="left" alt="Bootstrap" width="26px" src="/images/frameworks/bootstrap.svg" />
-<img align="left" alt="HTML5" width="26px" src="/images/tools/html5.svg" />
-<img align="left" alt="CSS3" width="26px" src="/images/tools/css3.svg" />
+[![MySql Badge](https://img.shields.io/badge/-mysql-b08100?style=for-the-badge&labelColor=black&logo=mysql&logoColor=b08100)](#) &nbsp;&nbsp;
+[![MsSql Badge](https://img.shields.io/badge/-mssql-cdd1c9?style=for-the-badge&labelColor=black&logo=mysql&logoColor=ffffff)](#) &nbsp;&nbsp;
+[![Mongodb Badge](https://img.shields.io/badge/-mongodb-279c0c?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=40e609)](#) &nbsp;&nbsp;
 
 <br />
 
-### Databases:
-
-<img align="left" alt="MsSQL" width="26px" src="/images/db/microsoftsqlserver.svg" />
-<img align="left" alt="MySQL" width="26px" src="/images/db/mysql.svg" />
-<img align="left" alt="MongoDB" width="26px" src="/images/db/mongodb.svg" />
+### **Tools**
 
 <br />
 
-### Tools:
+## Top languages
 
-<img align="left" alt="Visual Studio Code" width="26px" src="/images/tools/visualstudiocode.svg" />
-<img align="left" alt="Intellij" width="26px" src="/images/tools/intellijidea.svg" />
-<img align="left" alt="Git" width="26px" src="/images/tools/git.svg" />
-<img align="left" alt="ubuntu" width="26px" src="/images/tools/ubuntu.svg" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marzuk16&layout=compact&theme=tokyonight&langs_count=6)](https://github.com/marzuk16)
 
+
+<!-- ### Profile visits
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=marzuk16.marzuk16) -->
 <br />
-<br />
 
----
+## **Github stats**
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="marzuk's GitHub Stats" src="https://github-readme-stats.marzuk16.vercel.app/api?username=marzuk16&show_icons=true&hide_border=true" />
-
-</details>
-
-[website]: marzuk.me
-[fb]: https://facebook.com/marzuk16
-[twitter]: https://twitter.com/m4rzuk16
-[linkedin]: https://linkedin.com/in/marzuk16
+[![Marzuk's GitHub stats](https://github-readme-stats.vercel.app/api?username=marzuk16&show_icons=true&hide=contribs,prs&theme=tokyonight)](https://github.com/marzuk16/marzuk16)
