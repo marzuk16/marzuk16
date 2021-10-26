@@ -24,20 +24,20 @@ I'm Md Marzukul Islam a Full Stack Web Developer. I Spend most of time coding ou
 
 <!-- TODO: Make technologies links takes you to repositories -->
 
-[![Java Badge](https://img.shields.io/badge/-java-32a852?style=for-the-badge&labelColor=black&logo=java&logoColor=32a852)](#) &nbsp;
+[![Java Badge](https://img.shields.io/badge/-java-0E8AC7?style=for-the-badge&labelColor=black&logo=java&logoColor=0E8AC7)](#) &nbsp;
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) &nbsp;
-[![CPP Badge](https://img.shields.io/badge/-cpp-007acc?style=for-the-badge&labelColor=black&logo=cplusplus&logoColor=007acc)](#) &nbsp;
+[![CPP Badge](https://img.shields.io/badge/-cpp-00589D?style=for-the-badge&labelColor=black&logo=cplusplus&logoColor=00589D)](#) &nbsp;
 [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) &nbsp;
-[![Spring Badge](https://img.shields.io/badge/-springboot-e535ab?style=for-the-badge&labelColor=black&logo=spring.js&logoColor=e535ab)](#) &nbsp;
 [![Expressjs Badge](https://img.shields.io/badge/-Express-61DBFB?style=for-the-badge&labelColor=black&logo=express&logoColor=61DBFB)](#) &nbsp;
+[![Spring Badge](https://img.shields.io/badge/-springboot-6DB33F?style=for-the-badge&labelColor=black&logo=spring&logoColor=#6DB33F)](#) &nbsp;
 [![React Badge](https://img.shields.io/badge/-React-1e339e?style=for-the-badge&labelColor=black&logo=react&logoColor=007acc)](#)
 
 
 ### **Databeses**
 
-[![MySql Badge](https://img.shields.io/badge/-mysql-b08100?style=for-the-badge&labelColor=black&logo=mysql&logoColor=b08100)](#) &nbsp;&nbsp;
-[![MsSql Badge](https://img.shields.io/badge/-mssql-cdd1c9?style=for-the-badge&labelColor=black&logo=mysql&logoColor=ffffff)](#) &nbsp;&nbsp;
-[![Mongodb Badge](https://img.shields.io/badge/-mongodb-279c0c?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=40e609)](#) &nbsp;&nbsp;
+[![MySql Badge](https://img.shields.io/badge/-mysql-E48F2C?style=for-the-badge&labelColor=black&logo=mysql&logoColor=E48F2C)](#) &nbsp;&nbsp;
+[![MsSql Badge](https://img.shields.io/badge/-mssql-E74535?style=for-the-badge&labelColor=black&logo=mysql&logoColor=E74535)](#) &nbsp;&nbsp;
+[![Mongodb Badge](https://img.shields.io/badge/-mongodb-51A443?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=51A443)](#) &nbsp;&nbsp;
 
 
 ### **Tools**
