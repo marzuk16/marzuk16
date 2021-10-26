@@ -13,7 +13,7 @@ I'm Md Marzukul Islam a Full Stack Web Developer. I Spend most of time coding ou
 
 - 🔭 I’m currently working at @EATL
 - :computer: Most used line of code `git commit -m "Initial Commit"`
-- 🤔 I’m looking for help with Outstanding Video ideas.
+<!-- - 🤔 I’m looking for help with Outstanding Video ideas. -->
 - 📫 How to reach me: marzuk.dev@gmail.com.
 - 😄 Pronouns: Marzuk.
 - ⚡ Fun fact: I play games and cooking.
@@ -53,6 +53,7 @@ I'm Md Marzukul Islam a Full Stack Web Developer. I Spend most of time coding ou
 <img align="left" alt="gradle" width="26px" src="/images/tools/gradle.png" />
 
 <br />
+
 
 ---
 
