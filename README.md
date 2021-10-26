@@ -24,14 +24,12 @@ I'm Md Marzukul Islam a Full Stack Web Developer. I Spend most of time coding ou
 
 <!-- TODO: Make technologies links takes you to repositories -->
 
-[![Java Badge](https://img.shields.io/badge/-java-0E8AC7?style=for-the-badge&labelColor=black&logo=java&logoColor=0E8AC7)](#) &nbsp;
-[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) &nbsp;
-[![CPP Badge](https://img.shields.io/badge/-cpp-00589D?style=for-the-badge&labelColor=black&logo=cplusplus&logoColor=00589D)](#) &nbsp;
-[![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) &nbsp;
-[![Expressjs Badge](https://img.shields.io/badge/-Express-61DBFB?style=for-the-badge&labelColor=black&logo=express&logoColor=61DBFB)](#) &nbsp;
-[![Spring Badge](https://img.shields.io/badge/-springboot-6DB33F?style=for-the-badge&labelColor=black&logo=spring&logoColor=#6DB33F)](#) &nbsp;
-<br /><br />
-
+[![Java Badge](https://img.shields.io/badge/-java-0E8AC7?style=for-the-badge&labelColor=black&logo=java&logoColor=0E8AC7)](#)
+[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)
+[![CPP Badge](https://img.shields.io/badge/-cpp-00589D?style=for-the-badge&labelColor=black&logo=cplusplus&logoColor=00589D)](#)
+[![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#)
+[![Expressjs Badge](https://img.shields.io/badge/-Express-61DBFB?style=for-the-badge&labelColor=black&logo=express&logoColor=61DBFB)](#)
+[![Spring Badge](https://img.shields.io/badge/-springboot-6DB33F?style=for-the-badge&labelColor=black&logo=spring&logoColor=#6DB33F)](#)
 [![React Badge](https://img.shields.io/badge/-React-1e339e?style=for-the-badge&labelColor=black&logo=react&logoColor=007acc)](#)
 
 
