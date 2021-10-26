@@ -22,7 +22,7 @@
 
 ### Languages and Frameworks:
 
-<img align="left" alt="C++" width="26px" src="/images/languages/cpp.png" />
+<img align="left" alt="C++" width="26px" height="30px" src="/images/languages/cpp.png" />
 <img align="left" alt="java" width="26px" src="/images/languages/java.png" />
 <img align="left" color="red" alt="JavaScript" width="26px" src="/images/languages/javascript.png" />
 <img align="left" alt="Node.js" width="26px" src="/images/languages/node-dot-js.svg" />
