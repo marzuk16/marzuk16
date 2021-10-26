@@ -18,21 +18,20 @@ I'm Md Marzukul Islam a Full Stack Web Developer. I Spend most of time coding ou
 - 😄 Pronouns: Marzuk.
 - ⚡ Fun fact: I play games and cooking.
   
-<br />
+---
 
 ### **Languages & frameworks**
 
 <!-- TODO: Make technologies links takes you to repositories -->
 
-[![Java Badge](https://img.shields.io/badge/-java-32a852?style=for-the-badge&labelColor=black&logo=java&logoColor=32a852)](#) &nbsp;&nbsp;
-[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) &nbsp;&nbsp;
-[![CPP Badge](https://img.shields.io/badge/-cpp-007acc?style=for-the-badge&labelColor=black&logo=cplusplus&logoColor=007acc)](#) &nbsp;&nbsp;
-[![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) &nbsp;&nbsp;
-[![Spring Badge](https://img.shields.io/badge/-springboot-e535ab?style=for-the-badge&labelColor=black&logo=spring.js&logoColor=e535ab)](#) &nbsp;&nbsp;
-[![Expressjs Badge](https://img.shields.io/badge/-Express-61DBFB?style=for-the-badge&labelColor=black&logo=express&logoColor=61DBFB)](#) &nbsp;&nbsp;
+[![Java Badge](https://img.shields.io/badge/-java-32a852?style=for-the-badge&labelColor=black&logo=java&logoColor=32a852)](#) &nbsp;
+[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) &nbsp;
+[![CPP Badge](https://img.shields.io/badge/-cpp-007acc?style=for-the-badge&labelColor=black&logo=cplusplus&logoColor=007acc)](#) &nbsp;
+[![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) &nbsp;
+[![Spring Badge](https://img.shields.io/badge/-springboot-e535ab?style=for-the-badge&labelColor=black&logo=spring.js&logoColor=e535ab)](#) &nbsp;
+[![Expressjs Badge](https://img.shields.io/badge/-Express-61DBFB?style=for-the-badge&labelColor=black&logo=express&logoColor=61DBFB)](#) &nbsp;
 [![React Badge](https://img.shields.io/badge/-React-1e339e?style=for-the-badge&labelColor=black&logo=react&logoColor=1e339e)](#)
 
-<br />
 
 ### **Databeses**
 
@@ -40,11 +39,10 @@ I'm Md Marzukul Islam a Full Stack Web Developer. I Spend most of time coding ou
 [![MsSql Badge](https://img.shields.io/badge/-mssql-cdd1c9?style=for-the-badge&labelColor=black&logo=mysql&logoColor=ffffff)](#) &nbsp;&nbsp;
 [![Mongodb Badge](https://img.shields.io/badge/-mongodb-279c0c?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=40e609)](#) &nbsp;&nbsp;
 
-<br />
 
 ### **Tools**
 
-<br />
+---
 
 ## Top languages
 
