@@ -30,7 +30,7 @@ I'm Md Marzukul Islam a Full Stack Web Developer. I Spend most of time coding ou
 [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) &nbsp;
 [![Spring Badge](https://img.shields.io/badge/-springboot-e535ab?style=for-the-badge&labelColor=black&logo=spring.js&logoColor=e535ab)](#) &nbsp;
 [![Expressjs Badge](https://img.shields.io/badge/-Express-61DBFB?style=for-the-badge&labelColor=black&logo=express&logoColor=61DBFB)](#) &nbsp;
-[![React Badge](https://img.shields.io/badge/-React-1e339e?style=for-the-badge&labelColor=black&logo=react&logoColor=1e339e)](#)
+[![React Badge](https://img.shields.io/badge/-React-1e339e?style=for-the-badge&labelColor=black&logo=react&logoColor=007acc)](#)
 
 
 ### **Databeses**
