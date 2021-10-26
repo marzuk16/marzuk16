@@ -22,9 +22,9 @@
 
 ### Languages and Frameworks:
 
-<img align="left" alt="C++" width="26px" src="/images/languages/cpp.png" />
-<img align="left" alt="java" width="26px" src="/images/languages/java.png" />
-<img align="left" color="red" alt="JavaScript" width="26px" src="/images/languages/javascript.png" />
+<img align="left" alt="C++" width="26px" src="/images/languages/cpp.svg" />
+<img align="left" alt="java" width="26px" src="/images/languages/java.svg" />
+<img align="left" color="red" alt="JavaScript" width="26px" src="/images/languages/javascript.svg" />
 <img align="left" alt="Node.js" width="26px" src="/images/languages/node-dot-js.svg" />
 <img align="left" alt="React" width="26px" src="/images/frameworks/react.svg" />
 <img align="left" alt="Express js" width="26px" src="/images/frameworks/expressjs-ar21.svg" />
