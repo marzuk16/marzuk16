@@ -42,6 +42,11 @@ I'm Md Marzukul Islam a Full Stack Web Developer. I Spend most of time coding ou
 
 ### **Tools**
 
+<img align="left" alt="Visual Studio Code" width="26px" src="/images/tools/visualstudiocode.png" />
+<img align="left" alt="Intellij" width="26px" src="/images/tools/intellijidea.png" />
+<img align="left" alt="Git" width="26px" src="/images/tools/git.png" />
+<img align="left" alt="ubuntu" width="26px" src="/images/tools/ubuntu.png" />
+
 ---
 
 ## Top languages
@@ -52,7 +57,6 @@ I'm Md Marzukul Islam a Full Stack Web Developer. I Spend most of time coding ou
 <!-- ### Profile visits
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=marzuk16.marzuk16) -->
-<br />
 
 ## **Github stats**
 
