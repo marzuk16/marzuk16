@@ -36,9 +36,9 @@
 
 ### Databases:
 
-[<img align="left" alt="MsSQL" width="26px" src="/images/db/microsoftsqlserver.svg" />][]
-[<img align="left" alt="MySQL" width="26px" src="/images/db/musql.svg" />][]
-[<img align="left" alt="MongoDB" width="26px" src="/images/db/mongodb.svg" />][]
+<img align="left" alt="MsSQL" width="26px" src="/images/db/microsoftsqlserver.svg" />
+<img align="left" alt="MySQL" width="26px" src="/images/db/mysql.svg" />
+<img align="left" alt="MongoDB" width="26px" src="/images/db/mongodb.svg" />
 
 <br />
 
@@ -49,7 +49,7 @@
 [<img align="left" alt="Visual Studio Code" width="26px" src="/images/tools/visualstudiocode.svg" />]
 [<img align="left" alt="Intellij" width="26px" src="/images/tools/intellijidea.svg" />][]
 [<img align="left" alt="Git" width="26px" src="/images/tools/git.svg" />][]
-[<img align="left" alt="ubuntu" width="26px" src="/images/tools/ubuntu.svg" />][]
+<img align="left" alt="ubuntu" width="26px" src="/images/tools/ubuntu.svg" />
 
 <br />
 <br />
