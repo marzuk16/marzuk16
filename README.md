@@ -31,6 +31,8 @@
 <img align="left" alt="Express js" width="26px" src="/images/frameworks/expressjs-ar21.svg" />
 <img align="left" alt="Spring boot" width="26px" src="/images/frameworks/spring.svg" />
 <img align="left" alt="Bootstrap" width="26px" src="/images/frameworks/bootstrap.svg" />
+<img align="left" alt="HTML5" width="26px" src="/images/tools/html5.svg" />
+<img align="left" alt="CSS3" width="26px" src="/images/tools/css3.svg" />
 
 <br />
 
@@ -44,8 +46,6 @@
 
 ### Tools:
 
-<img align="left" alt="HTML5" width="26px" src="/images/tools/html5.svg" />
-<img align="left" alt="CSS3" width="26px" src="/images/tools/css3.svg" />
 <img align="left" alt="Visual Studio Code" width="26px" src="/images/tools/visualstudiocode.svg" />
 <img align="left" alt="Intellij" width="26px" src="/images/tools/intellijidea.svg" />
 <img align="left" alt="Git" width="26px" src="/images/tools/git.svg" />
