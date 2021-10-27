@@ -13,14 +13,14 @@ I'm Md Marzukul Islam a Full Stack Web Developer. I Spend most of time coding ou
 
 - 🔭 I’m currently working at @EATL
 - :computer: Most used line of code `git commit -m "Initial Commit"`
-- 📫 How to reach me: marzuk.dev@gmail.com.
-- ⚡ Fun fact: I play games and cooking.
 - :innocent: I Love Challenges. That is why I eagerly interested to solve new problems.
 - :diamond_shape_with_a_dot_inside: Coding is my Passion. Develop a new feature can't give me street whatever how much hard it is.
 - :heart_eyes: My Favorite Framework is Express Js.
 - :grinning: Test Code is the Heart of application. I am not a heartless person :stuck_out_tongue_winking_eye:
 - :unamused: She said that, I am Honest, Caring and Lazy( I think 3rd one is not correct :) )
 - :relaxed: I spend my leisure time with Technical Blog, Article and Tutorials.
+- ⚡ Fun fact: I play games and cooking.
+- 📫 How to reach me: marzuk.dev@gmail.com.
   
 ---
 
