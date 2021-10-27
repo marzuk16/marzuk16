@@ -11,7 +11,12 @@ I am a **Jr. Software Engineer** at *Ethics Advance Technology Ltd.*, a leading 
 
 <!-- TODO: Add last video link -->
 
-- :computer: Most used line of code `git commit -m "....."`
+- :computer: Most used lines of code : 
+    - `git status`
+    - `git add .`
+    - `git commit -m "....."`
+    - `git pull origin`
+    - `git push`
 - :innocent: I Love Challenges. That is why I am eagerly interested to solve new problems.
 - :diamond_shape_with_a_dot_inside: Coding is my Passion. Developing a new feature can't give me return street whatever how hard it is.
 - :heart_eyes: My Favorite Framework is Express Js.
