@@ -12,7 +12,7 @@ I'm Md Marzukul Islam a Full Stack Web Developer. I Spend most of time coding ou
 <!-- TODO: Add last video link -->
 
 - 🔭 I’m currently working at @EATL
-- :computer: Most used line of code `git commit -m "Initial Commit"`
+- :computer: Most used line of code `git commit -m "....."`
 - :innocent: I Love Challenges. That is why I eagerly interested to solve new problems.
 - :diamond_shape_with_a_dot_inside: Coding is my Passion. Develop a new feature can't give me street whatever how much hard it is.
 - :heart_eyes: My Favorite Framework is Express Js.
