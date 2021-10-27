@@ -17,7 +17,7 @@ I'm Md Marzukul Islam a Full Stack Web Developer. I Spend most of time coding ou
 - :diamond_shape_with_a_dot_inside: Coding is my Passion. Develop a new feature can't give me street whatever how much hard it is.
 - :heart_eyes: My Favorite Framework is Express Js.
 - :grinning: Test Code is the Heart of application. I am not a heartless person :stuck_out_tongue_winking_eye:
-- :unamused: She said that, I am Honest, Caring and Lazy( I think 3rd one is not correct :) )
+- :unamused: She said that, I am Honest, Caring and Lazy( I think 3rd one is not correct :persevere: )
 - :relaxed: I spend my leisure time with Technical Blog, Article and Tutorials.
 - ⚡ Fun fact: I play games and cooking.
 - 📫 How to reach me: marzuk.dev@gmail.com.
