@@ -1,6 +1,6 @@
 # **Hi I'm Marzuk <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">**
 
-I'm Md Marzukul Islam a Full Stack Web Developer. I Spend most of time coding outstanding projects.
+I am a **Jr. Software Engineer** at *Ethics Advance Technology Ltd.*, a leading enterprise with innovative ICT services and solutions provider in Bangladesh established in November 1999. Since 25th February 2021, I am working on the Spring boot Framework. Though I am very much familiar with **Express Js**, But from the inside, I feel attentiveness to work in a **Java** environment on large-scale projects.
 
 :mailbox: Reach me out!
 
@@ -11,12 +11,11 @@ I'm Md Marzukul Islam a Full Stack Web Developer. I Spend most of time coding ou
 
 <!-- TODO: Add last video link -->
 
-- 🔭 I’m currently working at @EATL
 - :computer: Most used line of code `git commit -m "....."`
-- :innocent: I Love Challenges. That is why I eagerly interested to solve new problems.
+- :innocent: I Love Challenges. That is why I am eagerly interested to solve new problems.
 - :diamond_shape_with_a_dot_inside: Coding is my Passion. Developing a new feature can't give me return street whatever how hard it is.
 - :heart_eyes: My Favorite Framework is Express Js.
-- :grinning: Test Code is the Heart of application. I am not a heartless person :stuck_out_tongue_winking_eye:
+- :grinning: Test Code is the Heart of the application. I am not a heartless person :stuck_out_tongue_winking_eye:
 - :unamused: She said that, I am Honest, Caring and Lazy( I think 3rd one is not correct :persevere: )
 - :relaxed: I spend my leisure time with Technical Blog, Article and Tutorials.
 - ⚡ Fun fact: I play games and cooking.
