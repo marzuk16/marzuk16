@@ -7,7 +7,7 @@ I am a **Jr. Software Engineer** at *Ethics Advance Technology Ltd.*, a leading 
 [![Twitter Badge](https://img.shields.io/badge/-twitter-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/m4rzuk16)](https://twitter.com/m4rzuk16)
 [![Mail Badge](https://img.shields.io/badge/-gmail-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:marzuk.dev@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-linkedin-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marzuk16/)
- [![Mail Badge](https://img.shields.io/badge/-Hackerrank-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.hackerrank.com/marzuk16)
+ [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/marzuk16)
 
 <!-- TODO: Add last video link -->
 
