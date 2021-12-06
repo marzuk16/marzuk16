@@ -9,7 +9,6 @@ I am a **Jr. Software Engineer** at *Ethics Advance Technology Ltd.*, a leading 
 [![Linkedin Badge](https://img.shields.io/badge/-linkedin-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marzuk16/)
  [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=flat&labelColor=2EC866&logo=HackerRank&logoColor=black)](https://www.hackerrank.com/marzuk16)
 
-<!-- TODO: Add last video link -->
 
 - :computer: Most used lines of code : 
     - `git status`
@@ -20,9 +19,9 @@ I am a **Jr. Software Engineer** at *Ethics Advance Technology Ltd.*, a leading 
 - :innocent: I Love Challenges. That is why I am eagerly interested to solve new problems.
 - :diamond_shape_with_a_dot_inside: Coding is my Passion. Developing a new feature can't give me return street whatever how hard it is.
 - :heart_eyes: My Favorite Framework is Express Js.
-- :grinning: Test Code is the Heart of the application. I am not a heartless person :stuck_out_tongue_winking_eye:
-- :unamused: She said that, I am Honest, Caring and Lazy( I think 3rd one is not correct :persevere: )
-- :relaxed: I spend my leisure time with Technical Blog, Article and Tutorials.
+- :computer: Test Code is the Heart of the application. I am not a heartless person :stuck_out_tongue_winking_eye:
+- :speaker: She said that, I am Honest, Caring and Lazy( I think 3rd one is not correct :persevere: )
+- :tv: I spend my leisure time with Technical Blog, Article and Tutorials.
 - ⚡ Fun fact: I play games and cooking.
 - 📫 How to reach me: marzuk.dev@gmail.com.
   
