@@ -8,9 +8,9 @@ I am a **Jr. Software Engineer** at *Ethics Advance Technology Ltd.*, a leading 
 [![Mail Badge](https://img.shields.io/badge/-gmail-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:marzuk.dev@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-linkedin-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marzuk16/)
  
- :mens: Profiles
- [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=flat&labelColor=2EC866&logo=HackerRank&logoColor=black)](https://www.hackerrank.com/marzuk16)
+:mens: Profiles
 
+ [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=flat&labelColor=2EC866&logo=HackerRank&logoColor=black)](https://www.hackerrank.com/marzuk16)
 
 - :computer: Most used lines of code : 
     - `git status`
