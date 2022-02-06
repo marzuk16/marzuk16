@@ -14,7 +14,7 @@ I am a **Jr. Software Engineer** at *Ethics Advance Technology Ltd.*, a leading 
 
 - :computer: Most used lines of code : 
     - `git add .`
-    - `git commit -m "initial commit" ` :stuck_out_tongue_winking_eye:
+    - `git commit -m "initial commit"` :stuck_out_tongue_winking_eye:
     - `git push`
 - :innocent: I Love Challenges. That is why I am eagerly interested to solve new problems.
 - :diamond_shape_with_a_dot_inside: Coding is my Passion. Developing a new feature can't give me return street whatever how hard it is.
