@@ -13,7 +13,7 @@ I am a **Jr. Software Engineer** at *Ethics Advance Technology Ltd.*, a leading 
  [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=flat&labelColor=2EC866&logo=HackerRank&logoColor=black)](https://www.hackerrank.com/marzuk16)
 
 - :computer: Most used line of code : 
-    - `git commit -m "initial commit"` :stuck_out_tongue_winking_eye:
+    - `git commit -m "initial commit"` :sunglasses:
 - :innocent: I Love Challenges. That is why I am eagerly interested to solve new problems.
 - :diamond_shape_with_a_dot_inside: Coding is my Passion. Developing a new feature can't give me return street whatever how hard it is.
 - :heart_eyes: My Favorite Framework is Express Js.
