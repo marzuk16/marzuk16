@@ -27,6 +27,7 @@ I am a **Jr. Software Engineer** at *Dynamic Solution Innovators Ltd.* I am work
 
 ### **Languages & frameworks**
 
+<!-- Markdown badges -->
 <!-- TODO: Make technologies links takes you to repositories -->
 
 [![Java Badge](https://img.shields.io/badge/-java-0E8AC7?style=for-the-badge&labelColor=black&logo=java&logoColor=0E8AC7)](#)
@@ -36,6 +37,7 @@ I am a **Jr. Software Engineer** at *Dynamic Solution Innovators Ltd.* I am work
 [![Expressjs Badge](https://img.shields.io/badge/-Express-61DBFB?style=for-the-badge&labelColor=black&logo=express&logoColor=61DBFB)](#)
 [![Spring Badge](https://img.shields.io/badge/-springboot-6DB33F?style=for-the-badge&labelColor=black&logo=spring&logoColor=#6DB33F)](#)
 [![React Badge](https://img.shields.io/badge/-React-1e339e?style=for-the-badge&labelColor=black&logo=react&logoColor=007acc)](#)
+[![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)](#)
 
 
 ### **Databeses**
