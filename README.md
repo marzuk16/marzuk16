@@ -40,7 +40,7 @@ I am a **Jr. Software Engineer** at *Dynamic Solution Innovators Ltd.* I am work
 [![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&labelColor=black&logo=jquery&logoColor=white)](#)
 
 ### **Devs tools**
-[![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)](#)
+[![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&labelColor=black&logo=docker&logoColor=white)](#)
 
 ### **Databeses**
 
