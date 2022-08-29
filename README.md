@@ -30,7 +30,7 @@ I am a **Jr. Software Engineer** at *Dynamic Solution Innovators Ltd.* I am work
 <!-- Markdown badges -->
 <!-- TODO: Make technologies links takes you to repositories -->
 
-[![Java Badge](https://img.shields.io/badge/-java-0E8AC7?style=for-the-badge&labelColor=black&logo=java&logoColor=0E8AC7)](#)
+[![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&labelColor=black&logo=java&logoColor=0E8AC7)](#)
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)
 [![CPP Badge](https://img.shields.io/badge/-cpp-00589D?style=for-the-badge&labelColor=black&logo=cplusplus&logoColor=00589D)](#)
 [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#)
