@@ -67,7 +67,7 @@ I am a **Jr. Software Engineer** at *Dynamic Solution Innovators Ltd.* I am work
 
 ## Top languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marzuk16&layout=compact&theme=tokyonight&langs_count=6)](https://github.com/marzuk16)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marzuk16&layout=compact&theme=tokyonight&langs_count=16)](https://github.com/marzuk16)
 
 
 <!-- ### Profile visits
