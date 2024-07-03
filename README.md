@@ -67,7 +67,7 @@ I am a **Assistant Software Engineer** at *Dynamic Solution Innovators Ltd.* I a
 
 ## Top languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marzuk16&layout=compact&theme=tokyonight&langs_count=6&hide=html,css,php,c%23,c)](https://github.com/marzuk16)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marzuk16&layout=compact&theme=tokyonight&langs_count=6&hide=html,css,php,c%23,c,ejs)](https://github.com/marzuk16)
 
 
 <!-- ### Profile visits
