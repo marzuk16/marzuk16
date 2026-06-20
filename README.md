@@ -36,6 +36,7 @@
 [![MSSQL](https://img.shields.io/badge/-SQL%20Server-CC2927?style=for-the-badge&labelColor=black&logo=microsoftsqlserver&logoColor=CC2927)](#)
 [![Oracle](https://img.shields.io/badge/-Oracle%20SQL-F80000?style=for-the-badge&labelColor=black&logo=oracle&logoColor=F80000)](#)
 [![MongoDB](https://img.shields.io/badge/-MongoDB-51A443?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=51A443)](#)
+[![Redis](https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&labelColor=black&logo=redis&logoColor=DC382D)](#)
 
 ### DevOps & Monitoring
 
