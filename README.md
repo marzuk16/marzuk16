@@ -2,7 +2,7 @@
 
 **Software Engineer** with 5+ years of experience building and scaling high-performance backend systems. Specialized in microservices architecture, REST APIs, and distributed systems capable of handling **2,300+ RPS** peak traffic.
 
-🌐 **Portfolio:** [marzuk16.github.io](https://marzuk16.github.io) &nbsp;·&nbsp; 🟢 Available for new opportunities
+🌐 **Portfolio:** [marzuk16.github.io](https://marzuk16.github.io)
 
 ---
 
