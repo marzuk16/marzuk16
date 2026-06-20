@@ -29,6 +29,11 @@
 [![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=for-the-badge&labelColor=black&logo=spring&logoColor=6DB33F)](#)
 [![Microservices](https://img.shields.io/badge/-Microservices-0064A5?style=for-the-badge&labelColor=black&logo=apachekafka&logoColor=white)](#)
 [![REST APIs](https://img.shields.io/badge/-REST%20APIs-FF6C37?style=for-the-badge&labelColor=black&logo=postman&logoColor=FF6C37)](#)
+[![JavaScript](https://img.shields.io/badge/-JavaScript%20ES6-F7DF1E?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F7DF1E)](#)
+[![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=for-the-badge&labelColor=black&logo=jquery&logoColor=0769AD)](#)
+[![Thymeleaf](https://img.shields.io/badge/-Thymeleaf-005F0F?style=for-the-badge&labelColor=black&logo=thymeleaf&logoColor=005F0F)](#)
+[![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&labelColor=black&logo=html5&logoColor=E34F26)](#)
+[![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&labelColor=black&logo=css3&logoColor=1572B6)](#)
 
 ### Databases
 
