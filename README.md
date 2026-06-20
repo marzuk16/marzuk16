@@ -32,9 +32,6 @@
 [![JavaScript](https://img.shields.io/badge/-JavaScript%20ES6-F7DF1E?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F7DF1E)](#)
 [![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=for-the-badge&labelColor=black&logo=jquery&logoColor=0769AD)](#)
 [![Thymeleaf](https://img.shields.io/badge/-Thymeleaf-005F0F?style=for-the-badge&labelColor=black&logo=thymeleaf&logoColor=005F0F)](#)
-[![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&labelColor=black&logo=html5&logoColor=E34F26)](#)
-[![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&labelColor=black&logo=css3&logoColor=1572B6)](#)
-
 ### Databases
 
 [![MSSQL](https://img.shields.io/badge/-SQL%20Server-CC2927?style=for-the-badge&labelColor=black&logo=microsoftsqlserver&logoColor=CC2927)](#)
