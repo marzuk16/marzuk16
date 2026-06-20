@@ -33,7 +33,9 @@
 ### Databases
 
 [![MySQL](https://img.shields.io/badge/-MySQL-E48F2C?style=for-the-badge&labelColor=black&logo=mysql&logoColor=E48F2C)](#)
-[![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&labelColor=black&logo=postgresql&logoColor=white)](#)
+[![MSSQL](https://img.shields.io/badge/-SQL%20Server-CC2927?style=for-the-badge&labelColor=black&logo=microsoftsqlserver&logoColor=CC2927)](#)
+[![Oracle](https://img.shields.io/badge/-Oracle%20SQL-F80000?style=for-the-badge&labelColor=black&logo=oracle&logoColor=F80000)](#)
+[![MongoDB](https://img.shields.io/badge/-MongoDB-51A443?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=51A443)](#)
 
 ### DevOps & Monitoring
 
